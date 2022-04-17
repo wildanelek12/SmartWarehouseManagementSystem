@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477492579865",
+    "firebase_url": "https://smart-warehouse-26-default-rtdb.firebaseio.com",
+    "project_id": "smart-warehouse-26",
+    "storage_bucket": "smart-warehouse-26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477492579865:android:7770ab2360c96847c2a488",
+        "android_client_info": {
+          "package_name": "id.codes.smartwarehousemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477492579865-6642gumt0ddtf1drtn8samp9fhtpvibl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1YiuJDovDi3RvXNqvywmVupqEIveIg2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477492579865-6642gumt0ddtf1drtn8samp9fhtpvibl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
