@@ -78,6 +78,7 @@
                     android:src="@drawable/ic_suhu" />
 
                 <TextView
+                    android:id="@+id/tv_status_suhu"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="@dimen/_5sdp"
@@ -112,6 +113,7 @@
                     android:src="@drawable/ic_kelembapan" />
 
                 <TextView
+                    android:id="@+id/tv_status_kelembapan"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="@dimen/_5sdp"
@@ -146,6 +148,7 @@
                     android:src="@drawable/ic_debu" />
 
                 <TextView
+                    android:id="@+id/tv_status_debu"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="@dimen/_5sdp"
@@ -181,6 +184,7 @@
                     android:src="@drawable/ic_daya_pemanas" />
 
                 <TextView
+                    android:id="@+id/tv_status_daya_pemanas"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="@dimen/_5sdp"
@@ -215,6 +219,7 @@
                     android:src="@drawable/ic_daya_pendingin" />
 
                 <TextView
+                    android:id="@+id/tv_status_daya_pendingin"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="@dimen/_5sdp"
